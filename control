@@ -1,0 +1,8 @@
+Package: zone.sparkes.cydiamodifier
+Name: CydiaModifier
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fixes minor bugs with Cydia under Meridian
+Maintainer: PsychoTea
+Author: PsychoTea
+Section: Tweaks
