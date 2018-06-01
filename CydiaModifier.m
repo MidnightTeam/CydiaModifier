@@ -1,4 +1,4 @@
-#import <sys/sysctl.h>
+#include <sys/sysctl.h>
 
 @interface Cydia
 - (void)reloadSpringBoard;
